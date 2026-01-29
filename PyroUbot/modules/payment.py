@@ -54,7 +54,7 @@ DANA : ||HUB. OWNER||
             )
             CONFIRM_PAYMENT.remove(get.id)
             buttons = [
-                [InlineKeyboardButton("📞 ᴏᴡɴᴇʀ", url="https://t.me/Cr4shL")]
+                [InlineKeyboardButton("📞 ᴏᴡɴᴇʀ", url="https://t.me/yaetiem")]
             ]
             return await bot.send_message(
                 user_id,

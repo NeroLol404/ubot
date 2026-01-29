@@ -20,7 +20,7 @@ async def _(client, message):
 
         nominal_formatted = f"{int(nominal_str):,}".replace(",", ".") 
         
-        qris_link = "082197184449"
+        qris_link = "082123179079"
 
         caption = f"""
 <blockquote><b><emoji id=5852827336705053876>⭐</emoji> **Dana Anda Siap!** <emoji id=5852827336705053876>⭐</emoji>
